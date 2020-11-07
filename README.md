@@ -1,4 +1,4 @@
-# Breast-Tumor-Segmentation
+# Breast Tumor Segmentation
  This project was made with MATLAB. 
  
 ![Image description](1deschidere.png)
